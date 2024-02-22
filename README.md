@@ -4,8 +4,8 @@ A client-server based file transfer socket that can transfer any file from a cli
 Written purely in C.
 
 ## Compilation
-```gcc client.c -o client```  
-```gcc server.c -o server```
+Compile client script: ```gcc client.c -o client```  
+Compile server script: ```gcc server.c -o server```
 
 ## Usage
 Client-side script: ```./client <source filename>```  
