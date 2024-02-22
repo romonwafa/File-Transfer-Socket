@@ -12,5 +12,5 @@ Client-side script: ```./client <source filename>```
 Server-side script: ```./server <destination filename>```
 
 ## Example
-Client-side command: ```./client ./clone_me.jpg```  
-Server-side command: ```./server ./cloned_image.jpg```
+Client-side (file sender) command: ```./client ./clone_me.jpg```  
+Server-side (file receiver) command: ```./server ./cloned_image.jpg```
