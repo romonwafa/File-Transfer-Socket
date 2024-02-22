@@ -11,3 +11,7 @@ gcc server.c -o server
 ## Usage
 Client-side script: ```./client <source filename>```  
 Server-side script: ```./server <destination filename>```
+
+## Example
+Client-side command: ```./client ./clone_me.jpg```
+Server-side command: ```./server ./cloned_image.jpg```
